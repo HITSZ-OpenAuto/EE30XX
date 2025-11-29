@@ -4,7 +4,7 @@
 
 电气专业的选修课开设于第三学年春季学期和第四学年秋季学期。
 
-自 22 级起，电气专业的选修课不再区分*电力系统及其自动化*和*电力电子与电机驱动*两个方向，而是从全部的22门课程中选择任意门修读满足学分要求即可。22 级要求 9 学分，23 级要求 8 学分，24 级要求 10 学分。
+自 22 级起，电气专业的选修课不再区分*电力系统及其自动化*和*电力电子与电机驱动*两个方向，而是从全部课程中选择任意门修读满足学分要求即可。22 级要求 9 学分，23 级要求 8 学分，24 级要求 10 学分。
 
 ## 第三学年春季学期
 
@@ -15,6 +15,10 @@
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![课程报告70%](https://img.shields.io/badge/课程报告-70%25-wheat)
 ![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
+
+![总学时32](https://img.shields.io/badge/总学时-32-gold)
+![理论22](https://img.shields.io/badge/理论-22-wheat) 
+![实验10](https://img.shields.io/badge/实验-10-wheat)
 
 - 詹瀚林
 
@@ -33,6 +37,10 @@
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![课堂表现50%](https://img.shields.io/badge/课堂表现-50%25-wheat)
 ![课程报告50%](https://img.shields.io/badge/课程报告-50%25-wheat)
+
+![总学时32](https://img.shields.io/badge/总学时-32-gold)
+![理论22](https://img.shields.io/badge/理论-22-wheat) 
+![实验10](https://img.shields.io/badge/实验-10-wheat)
 
 - 朱荣伍
 
@@ -56,6 +64,10 @@
 ![平时及实验50%](https://img.shields.io/badge/平时及实验-50%25-wheat)
 ![课程报告50%](https://img.shields.io/badge/课程报告-50%25-wheat)
 
+![总学时32](https://img.shields.io/badge/总学时-32-gold)
+![理论16](https://img.shields.io/badge/理论-16-wheat) 
+![实验16](https://img.shields.io/badge/实验-16-wheat)
+
 - 潘学伟
 
 课程难度适中，学的东西是电力电子化的电力系统，主要是学新能源并网技术，和电力电子方向靠的也挺近。
@@ -73,6 +85,10 @@
 ![小组汇报30%](https://img.shields.io/badge/小组汇报-30%25-wheat)
 ![实验40%](https://img.shields.io/badge/实验-40%25-wheat)
 
+![总学时32](https://img.shields.io/badge/总学时-32-gold)
+![理论16](https://img.shields.io/badge/理论-16-wheat) 
+![实验12+4](https://img.shields.io/badge/实验-12+4-wheat)
+
 - 吴婷
 
 平时分包括考勤、课上小测以及课后作业。课程难度适中，学的东西是电力系统规划/电力市场，主要就是运筹学和写代码。
@@ -89,6 +105,9 @@
 ![实验60%](https://img.shields.io/badge/实验-60%25-wheat)
 ![课程论文40%](https://img.shields.io/badge/课程论文-40%25-wheat)
 
+![总学时32](https://img.shields.io/badge/总学时-32-gold)
+![理论20](https://img.shields.io/badge/理论-20-wheat) 
+![实验12](https://img.shields.io/badge/实验-12-wheat)
 
 - 黄祈生
 
@@ -114,12 +133,22 @@
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![实验100%](https://img.shields.io/badge/实验-100%25-wheat)
 
+![总学时24](https://img.shields.io/badge/总学时-24-gold)
+![实验24](https://img.shields.io/badge/实验-24-wheat)
+
+- 李文立（本研上为张弦老师，但是实际上是李文立老师在带）
+
+原来*电力系统及其自动化*方向的模块实验。
 
 ### EE3027 现代电机设计与CAD
 
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1.5-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+
+![总学时32](https://img.shields.io/badge/总学时-24-gold)
+![理论16](https://img.shields.io/badge/理论-16-wheat) 
+![上机8](https://img.shields.io/badge/上机-8-wheat)
 
 - 赵飞
 
@@ -128,6 +157,9 @@
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1.5-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+
+![总学时24](https://img.shields.io/badge/总学时-24-gold)
+![理论24](https://img.shields.io/badge/理论-24-wheat) 
 
 - 梁亮
 
@@ -151,11 +183,13 @@
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![平时40%](https://img.shields.io/badge/平时-40%25-wheat)
 ![课程报告60%](https://img.shields.io/badge/课程报告-60%25-wheat)
-没给具体成绩构成，由考勤和课程报告组成。
+
+![总学时16](https://img.shields.io/badge/总学时-16-gold)
+![理论16](https://img.shields.io/badge/理论-16-wheat) 
 
 - 张东来
 
-以小测形式考勤，上课的内容主要围绕模糊控制来讲，很轻松，想选张东来老师作为研究生导师的同学建议选这门课。没有实验。
+以小测形式考勤，上课的内容主要围绕模糊控制来讲，很轻松，想选张东来老师作为研究生导师的同学建议选这门课。
 
 > 文 / LJH，2025.11
 
@@ -165,6 +199,10 @@
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 
+![总学时24](https://img.shields.io/badge/总学时-24-gold)
+![理论8](https://img.shields.io/badge/理论-8-wheat) 
+![实验16](https://img.shields.io/badge/实验-16-wheat)
+
 - 王灿
 
 ### EE3023 电磁兼容基础
@@ -172,6 +210,9 @@
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+
+![总学时16](https://img.shields.io/badge/总学时-16-gold)
+![理论16](https://img.shields.io/badge/理论-16-wheat) 
 
 - 和军平
 
@@ -181,6 +222,10 @@
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 
+![总学时32](https://img.shields.io/badge/总学时-32-gold)
+![理论24](https://img.shields.io/badge/理论-24-wheat) 
+![上机8](https://img.shields.io/badge/实验-8-wheat)
+
 - 王宏
 
 ### EE3026 电气测量技术
@@ -188,6 +233,10 @@
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1.5-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+
+![总学时24](https://img.shields.io/badge/总学时-24-gold)
+![理论20](https://img.shields.io/badge/理论-20-wheat) 
+![实验4](https://img.shields.io/badge/实验-4-wheat)
 
 - 梁仲明
 
@@ -197,7 +246,11 @@
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 
-- 叶剑
+![总学时16](https://img.shields.io/badge/总学时-16-gold)
+![理论12](https://img.shields.io/badge/理论-12-wheat) 
+![实验4](https://img.shields.io/badge/实验-4-wheat)
+
+- 叶剑（老师已离职，故 22 级未开课）
 
 ### EE3029 高电压技术
 
@@ -206,6 +259,10 @@
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![课堂表现50%](https://img.shields.io/badge/课堂表现-50%25-wheat)
 ![课程报告50%](https://img.shields.io/badge/课程报告-50%25-wheat)
+
+![总学时16](https://img.shields.io/badge/总学时-16-gold)
+![理论12](https://img.shields.io/badge/理论-12-wheat) 
+![实验4](https://img.shields.io/badge/实验-4-wheat)
 
 - 谷雨
 
@@ -219,25 +276,11 @@
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 
+![总学时16](https://img.shields.io/badge/总学时-16-gold)
+![理论12](https://img.shields.io/badge/理论-12-wheat) 
+![实验4](https://img.shields.io/badge/实验-4-wheat)
+
 - 朱荣伍
-
-### EE3032 高压直流输电技术
-
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
-
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-
-### EE3037 新型电机原理与应用
-
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
-
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-
-### EE3039 先进储能系统
-
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
-
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 
 ### EE3040 电力市场概论
 
@@ -246,6 +289,10 @@
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![实验40%](https://img.shields.io/badge/实验-40%25-wheat)
 ![课程报告60%](https://img.shields.io/badge/课程报告-60%25-wheat)
+
+![总学时24](https://img.shields.io/badge/总学时-24-gold)
+![理论12](https://img.shields.io/badge/理论-12-wheat) 
+![实验6+6](https://img.shields.io/badge/实验-6+6-wheat)
 
 - 黄祁生
 
@@ -258,5 +305,8 @@
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-1-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+
+![总学时16](https://img.shields.io/badge/总学时-16-gold)
+![理论16](https://img.shields.io/badge/理论-16-wheat) 
 
 - 张东来
