@@ -1,4 +1,5 @@
 # EE30XX - 电气专业选修课
+<!-- TOML-META: repo_type="multi-project" -->
 
 【标签】: 考查课
 
@@ -6,7 +7,11 @@
 
 自 22 级起，电气专业的选修课不再区分*电力系统及其自动化*和*电力电子与电机驱动*两个方向，而是从全部课程中选择任意门修读满足学分要求即可。22 级要求 9 学分，23 级要求 8 学分，24 级要求 10 学分。
 
+<!-- TOML-COURSES-START -->
+
 ## EE3004 - 电气传动自动控制系统
+<!-- TOML-COURSE: code="EE3004" name="电气传动自动控制系统" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -34,6 +39,8 @@
 > 文 / ZSA，2025-11
 
 ## EE3011 - 开关电源原理与设计
+<!-- TOML-COURSE: code="EE3011" name="开关电源原理与设计" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -65,6 +72,8 @@
 > 文 / ZSA，2025-11
 
 ## EE3012 - 分布式电源与新能源发电
+<!-- TOML-COURSE: code="EE3012" name="分布式电源与新能源发电" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -90,6 +99,8 @@
 > 文 / LJH，2025-11
 
 ## EE3016 - 智能电网
+<!-- TOML-COURSE: code="EE3016" name="智能电网" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -116,6 +127,8 @@
 > 文 / LJH，2025-11
 
 ## EE3017 - 电力系统继电保护
+<!-- TOML-COURSE: code="EE3017" name="电力系统继电保护" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -149,6 +162,8 @@
 > 文 / ZSA，2025-11
 
 ## EE3018 - 电力系统综合实验
+<!-- TOML-COURSE: code="EE3018" name="电力系统综合实验" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
@@ -168,6 +183,8 @@
 原来*电力系统及其自动化*方向的模块实验。
 
 ## EE3027 - 现代电机设计与CAD
+<!-- TOML-COURSE: code="EE3027" name="现代电机设计与CAD" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1.5-moccasin)
 
@@ -181,6 +198,8 @@
 - 赵飞
 
 ## EE3038 - 发电厂电气系统
+<!-- TOML-COURSE: code="EE3038" name="发电厂电气系统" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1.5-moccasin)
 
@@ -193,6 +212,8 @@
 - 梁亮
 
 ## EE4001 - 电气前沿技术专题
+<!-- TOML-COURSE: code="EE4001" name="电气前沿技术专题" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
@@ -210,6 +231,8 @@
 > 文 / LJH，2025-11
 
 ## EE3021 - 智能控制基础
+<!-- TOML-COURSE: code="EE3021" name="智能控制基础" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
@@ -232,6 +255,8 @@
 > 文 / LJH，2025-11
 
 ## EE3022 - 电力电子系统建模与仿真
+<!-- TOML-COURSE: code="EE3022" name="电力电子系统建模与仿真" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1.5-moccasin)
 
@@ -245,6 +270,8 @@
 - 王灿
 
 ## EE3023 - 电磁兼容基础
+<!-- TOML-COURSE: code="EE3023" name="电磁兼容基础" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
@@ -257,6 +284,8 @@
 - 和军平
 
 ## EE3024 - 电机驱动控制系统设计
+<!-- TOML-COURSE: code="EE3024" name="电机驱动控制系统设计" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-2-moccasin)
 
@@ -270,6 +299,8 @@
 - 王宏
 
 ## EE3026 - 电气测量技术
+<!-- TOML-COURSE: code="EE3026" name="电气测量技术" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1.5-moccasin)
 
@@ -283,6 +314,8 @@
 - 梁仲明
 
 ## EE3028 - 电能质量分析
+<!-- TOML-COURSE: code="EE3028" name="电能质量分析" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
@@ -296,6 +329,8 @@
 - 叶剑
 
 ## EE3029 - 高电压技术
+<!-- TOML-COURSE: code="EE3029" name="高电压技术" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
@@ -319,6 +354,8 @@
 > 文 / LJH，2025-11
 
 ## EE3030 - 电力系统调度自动化
+<!-- TOML-COURSE: code="EE3030" name="电力系统调度自动化" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
@@ -332,6 +369,8 @@
 - 朱荣伍
 
 ## EE3040 - 电力市场概论
+<!-- TOML-COURSE: code="EE3040" name="电力市场概论" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1.5-moccasin)
 
@@ -355,6 +394,8 @@
 > 文 / ZSA，2025-11
 
 ## EE3043 - 电学量的量子计量导论
+<!-- TOML-COURSE: code="EE3043" name="电学量的量子计量导论" -->
+<!-- TOML-BADGES: source="basic_info" -->
 
 ![学分](https://img.shields.io/badge/学分-1-moccasin)
 
